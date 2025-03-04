@@ -1,6 +1,6 @@
-## 🙋🏻‍♀️ Introducing Myself
+## 🙋‍♂️ Introducing Myself
 
-![GitHub Banner](https://raw.githubusercontent.com/Maltouf25/Maltouf25/main/banner_github.png)
+![GitHub Banner](https://raw.githubusercontent.com/Maltouf25/Maltouf25/main/banner_github1.png)
 
 Hello, I'm ** Nizar MALTOUF **, a **Data Science student at Telecom Paris** with a strong passion for **Artificial Intelligence**. I love exploring how data and machine learning can solve real-world problems, and I'm always eager to learn new techniques and tools to improve my skills.
 
